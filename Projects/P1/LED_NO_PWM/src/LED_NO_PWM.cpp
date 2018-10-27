@@ -26,6 +26,7 @@ int main() {
                 j *= -1;
             }
 
+            // Generate that NOOR
             while(button == 0){
                 led = 0;
                 wait(LOW_PERIOD);
