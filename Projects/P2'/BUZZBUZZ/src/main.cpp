@@ -23,140 +23,365 @@ int main() {
     while (1) { 
 
         // E4
-        wait(0.6);
+        
         buzzer.period(1.0/E);
         buzzer =0.5;
-        wait(0.3);
+        wait(0.2);
         buzzer=0.0; 
-        wait(0.05);
+        wait(0.01);
 
         // G4#
-        wait(0.6);
+        
         buzzer.period(1.0/g);
         buzzer =0.5;
-        wait(0.3);
+        wait(0.2);
         buzzer=0.0; 
-        wait(0.05);
+        wait(0.01);
 
         // G4#
-        wait(0.6);
+        
         buzzer.period(1.0/g);
         buzzer =0.5;
-        wait(0.3);
+        wait(0.2);
         buzzer=0.0; 
-        wait(0.05);
+        wait(0.01);
 
         // G4#
-        wait(0.6);
+        
         buzzer.period(1.0/g);
         buzzer =0.5;
-        wait(0.3);
+        wait(0.2);
         buzzer=0.0; 
-        wait(0.05);
+        wait(0.01);
 
         // f4#
-        wait(0.6);
+        
         buzzer.period(1.0/F);
         buzzer =0.5;
-        wait(0.3);
+        wait(0.2);
         buzzer=0.0; 
-        wait(0.05);
+        wait(0.01);
 
         // e4
-        wait(0.6);
+        
         buzzer.period(1.0/e);
         buzzer =0.5;
-        wait(0.3);
+        wait(0.2);
         buzzer=0.0; 
-        wait(0.05);
+        wait(0.01);
 
         // b4
-        wait(0.6);
+        
         buzzer.period(1.0/b);
         buzzer =0.5;
-        wait(0.3);
+        wait(0.2);
         buzzer=0.0; 
-        wait(0.05);
+        wait(0.01);
 
         // b4
-        wait(0.6);
+        
         buzzer.period(1.0/b);
         buzzer =0.5;
-        wait(0.3);
+        wait(0.2);
         buzzer=0.0; 
-        wait(0.05);
+        wait(0.01);
 
         // a4
-        wait(0.6);
+        
         buzzer.period(1.0/b);
         buzzer =0.5;
-        wait(0.3);
+        wait(0.2);
         buzzer=0.0; 
-        wait(0.05);
+        wait(0.01);
 
         // G4#
-        wait(0.6);
+        
         buzzer.period(1.0/g);
         buzzer =0.5;
-        wait(0.3);
+        wait(0.2);
         buzzer=0.0; 
-        wait(0.05);
+        wait(0.01);
 
         // G4#
-        wait(0.6);
+        
         buzzer.period(1.0/g);
         buzzer =0.5;
-        wait(0.3);
+        wait(0.2);
         buzzer=0.0; 
-        wait(0.05);
+        wait(0.01);
 
         // G4#
-        wait(0.6);
+        
         buzzer.period(1.0/g);
         buzzer =0.5;
-        wait(0.3);
+        wait(0.2);
         buzzer=0.0; 
-        wait(0.05);
+        wait(0.01);
 
         // f4#
-        wait(0.6);
+        
         buzzer.period(1.0/F);
         buzzer =0.5;
-        wait(0.3);
+        wait(0.2);
         buzzer=0.0; 
-        wait(0.05);
+        wait(0.01);
 
         // e4
-        wait(0.6);
+        
         buzzer.period(1.0/e);
         buzzer =0.5;
-        wait(0.3);
+        wait(0.2);
         buzzer=0.0; 
-        wait(0.05);
+        wait(0.01);
 
         // b4
-        wait(0.6);
+        
         buzzer.period(1.0/b);
         buzzer =0.5;
-        wait(0.3);
+        wait(0.2);
         buzzer=0.0; 
-        wait(0.05);
+        wait(0.01);
 
         // b4
-        wait(0.6);
+        
         buzzer.period(1.0/b);
         buzzer =0.5;
-        wait(0.3);
+        wait(0.2);
         buzzer=0.0; 
-        wait(0.05);
+        wait(0.01);
 
         // a4
-        wait(0.6);
+        
         buzzer.period(1.0/b);
         buzzer =0.5;
-        wait(0.3);
+        wait(0.2);
         buzzer=0.0; 
-        wait(0.05);
+        wait(0.01);
+
+
+        // E4
+        
+        buzzer.period(1.0/E);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // G4#
+        
+        buzzer.period(1.0/g);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // G4#
+        
+        buzzer.period(1.0/g);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // G4#
+        
+        buzzer.period(1.0/g);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // f4#
+        
+        buzzer.period(1.0/F);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // e4
+        
+        buzzer.period(1.0/e);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // b4
+        
+        buzzer.period(1.0/b);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // b4
+        
+        buzzer.period(1.0/b);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // a4
+        
+        buzzer.period(1.0/b);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // G4#
+        
+        buzzer.period(1.0/g);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // G4#
+        
+        buzzer.period(1.0/g);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // G4#
+        
+        buzzer.period(1.0/g);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // f4#
+        
+        buzzer.period(1.0/F);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // e4
+        
+        buzzer.period(1.0/e);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // b4
+        
+        buzzer.period(1.0/b);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // b4
+        
+        buzzer.period(1.0/b);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // a4
+        
+        buzzer.period(1.0/b);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+
+        // g4#
+        
+        buzzer.period(1.0/G);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // a4
+        
+        buzzer.period(1.0/a);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // b4
+        
+        buzzer.period(1.0/b);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+
+    
+        // a4
+        
+        buzzer.period(1.0/a);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+
+        // g4#
+        
+        buzzer.period(1.0/G);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+
+        // f4#
+        
+        buzzer.period(1.0/F);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+
+        // d4#
+        
+        buzzer.period(1.0/D);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+
+        // b4
+        
+        buzzer.period(1.0/b);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+        // e4
+        
+        buzzer.period(1.0/e);
+        buzzer =0.5;
+        wait(0.2);
+        buzzer=0.0; 
+        wait(0.01);
+
+
+
+
+
+
+
+
+
 
     wait(5);
     }
