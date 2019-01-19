@@ -110,7 +110,7 @@ double get_temprature(){
     wait(0.05);
   }
 
-  for(int i=0; i<5; i++) {
+  for(int i=0; i<10; i++) {
     avg = avg + (arr[i] / 10);
   }
   temp = avg * 3.685503686 * 100;
